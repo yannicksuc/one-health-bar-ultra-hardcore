@@ -1,4 +1,4 @@
-# Une Barre de Vie — Ultra Hardcore
+# One Health Bar — Ultra Hardcore (Une Barre de Vie)
 
 ![Une Barre de Vie — Ultra Hardcore](https://media.forgecdn.net/attachments/2118/71/affiche_hd-jpg.jpg)
 
@@ -6,7 +6,7 @@
 
 Mod Minecraft (Fabric, 26.3) de la série Twitch *Une Barre de Vie*, avec **Mastu**, **Hctuan** et **Zafeel** : finir Minecraft en ultra hardcore en partageant la même barre de vie, sous l'œil de **Maîtresse Boulon**, une institutrice robot.
 
-- Télécharger le mod : [CurseForge](https://www.curseforge.com/minecraft/mc-mods/une-barre-de-vie-ultra-hardcore)
+- Télécharger le mod : [CurseForge](https://www.curseforge.com/minecraft/mc-mods/one-health-bar-ultra-hardcore)
 - Comment ça marche : [le wiki](../../wiki)
 - Un bug, une idée : [ouvrir une issue](../../issues/new/choose)
 
