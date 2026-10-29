@@ -1,0 +1,29 @@
+name: Bug
+description: Quelque chose ne marche pas comme prévu
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Ce qui se passe
+      description: Ce que tu as fait, ce qui s'est passé, ce que tu attendais.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version du mod
+      placeholder: "1.0.0"
+  - type: dropdown
+    id: where
+    attributes:
+      label: Où
+      options:
+        - Solo
+        - Serveur
+        - Modpack
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs ou capture
+      description: Le fichier logs/latest.log, un crash report ou une capture d'écran si tu en as.

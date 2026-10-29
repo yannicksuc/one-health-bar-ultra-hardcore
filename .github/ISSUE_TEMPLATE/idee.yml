@@ -1,0 +1,10 @@
+name: Idée
+description: Une idée pour le mod ou pour Maîtresse Boulon
+labels: [idée]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: L'idée
+    validations:
+      required: true
