@@ -1,29 +1,30 @@
 name: Bug
-description: Quelque chose ne marche pas comme prévu
+description: Something does not work as expected / Quelque chose ne marche pas comme prévu
 labels: [bug]
 body:
   - type: textarea
     id: what
     attributes:
-      label: Ce qui se passe
-      description: Ce que tu as fait, ce qui s'est passé, ce que tu attendais.
+      label: What happens / Ce qui se passe
+      description: What you did, what happened, what you expected. / Ce que tu as fait, ce qui s'est passé, ce que tu attendais.
     validations:
       required: true
   - type: input
     id: version
     attributes:
-      label: Version du mod
-      placeholder: "1.0.0"
+      label: Mod version / Version du mod
+      placeholder: "1.1.0"
   - type: dropdown
     id: where
     attributes:
-      label: Où
+      label: Where / Où
       options:
-        - Solo
-        - Serveur
+        - Singleplayer / Solo
+        - LAN / Réseau local
+        - Dedicated server / Serveur dédié
         - Modpack
   - type: textarea
     id: logs
     attributes:
-      label: Logs ou capture
-      description: Le fichier logs/latest.log, un crash report ou une capture d'écran si tu en as.
+      label: Logs or screenshot / Logs ou capture
+      description: logs/latest.log, a crash report or a screenshot. / Le fichier logs/latest.log, un crash report ou une capture.

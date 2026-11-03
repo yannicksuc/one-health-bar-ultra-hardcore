@@ -1,10 +1,10 @@
-name: Idée
-description: Une idée pour le mod ou pour Maîtresse Boulon
-labels: [idée]
+name: Idea / Idée
+description: An idea for the mod, the modpack or Miss Boulon / Une idée pour le mod, le modpack ou Maîtresse Boulon
+labels: [idea]
 body:
   - type: textarea
     id: idea
     attributes:
-      label: L'idée
+      label: The idea / L'idée
     validations:
       required: true
