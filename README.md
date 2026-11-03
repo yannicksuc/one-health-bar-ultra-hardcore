@@ -4,6 +4,8 @@
 
 **One life. One health bar. For the whole class.**
 
+> **A commission for zafeel.** The mod and the modpack were made by **LordFinn** for **zafeel** and the French Twitch series *Une Barre de Vie*. If you make content with them (videos, streams, shorts…), please **credit LordFinn** (the mod and the modpack) **and zafeel** (the series they were made for).
+
 A Minecraft mod (Fabric, 26.3) made for **zafeel** and developed by **LordFinn**, from the Twitch series *Une Barre de Vie*
 with **zafeel**, **Mastu** and **Hctuan**: beat Minecraft in ultra hardcore while sharing one single health bar, under the
 eye of **Miss Boulon**, a robot teacher.
@@ -21,6 +23,8 @@ This repository holds the wiki and the issue tracker: the mod's code is not publ
 ## Français
 
 **Une seule vie. Une seule barre de cœurs. Pour toute la classe.**
+
+> **Une commande pour zafeel.** Le mod et le modpack ont été faits par **LordFinn** pour **zafeel** et la série Twitch *Une Barre de Vie*. Si vous en faites du contenu (vidéos, lives, shorts…), merci de **mentionner LordFinn** (le mod et le modpack) **et zafeel** (la série pour laquelle ils ont été faits).
 
 Mod Minecraft (Fabric, 26.3) fait pour **zafeel** et développé par **LordFinn**, issu de la série Twitch *Une Barre de Vie*
 avec **zafeel**, **Mastu** et **Hctuan** : finir Minecraft en ultra hardcore en partageant la même barre de vie, sous l'œil
