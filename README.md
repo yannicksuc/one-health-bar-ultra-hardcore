@@ -39,4 +39,4 @@ Ce dépôt sert au wiki et au suivi des bugs : le code du mod n'y est pas publi�
 | zafeel | [twitch.tv/zafeel](https://www.twitch.tv/zafeel) | [@zafeel](https://www.youtube.com/@zafeel) · [@zafeelVOD](https://www.youtube.com/@zafeelVOD) |
 | Mastu | [twitch.tv/mastu](https://www.twitch.tv/mastu) | [@Mastu](https://www.youtube.com/@Mastu) · [@masturediffusions](https://www.youtube.com/@masturediffusions) |
 | Hctuan | [twitch.tv/hctuan](https://www.twitch.tv/hctuan) | [@Hctuan_](https://www.youtube.com/@Hctuan_) · [@hctuanreplay](https://www.youtube.com/@hctuanreplay) |
-| LordFinn (mod and modpack) | [twitch.tv/lordfinn_](https://www.twitch.tv/lordfinn_) | [@LordFinn](https://www.youtube.com/@LordFinn) |
+| LordFinn (mod and modpack) | [twitch.tv/lordfinn_](https://www.twitch.tv/lordfinn_) | [@LordFinn](https://www.youtube.com/@LordFinn) · [CurseForge](https://www.curseforge.com/members/lordfinn/projects) |
